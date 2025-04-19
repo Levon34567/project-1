@@ -4,3 +4,5 @@
 .Ruserdata
 project-1.Rproj
 quarto-1_files
+*Rproj
+*_files
